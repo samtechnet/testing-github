@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+}
+.list{
+    background-color: yellow;
+    font-size: 200%;
+    font-family: sans-serif;
+    color: white;
+}
+#third{
+    color: black;
+  
+}
+img{
+    width: 20%;
+  height: auto;
+
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    margin-top: 3% 
+}
+ #secondimg{
+    margin-left: -60% ;
+    
+ }
